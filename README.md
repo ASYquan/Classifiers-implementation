@@ -21,7 +21,7 @@ Utility modules:
 - `logistic.py` — binary logistic regression with early stopping, loss/acc tracking, and grid search
 - `multiclass_ovr.py` — one-vs-rest multi-class classifier built from binary logistic regression
 - `mlp_binary.py` — simple MLP for binary classification with early stopping and tracking
-- `final_eval.py` — trains best models found and reports accuracy, precision, recall across splits
+- `main.py` — trains best models found and reports accuracy, precision, recall across splits
 - `plot_lin_log.py` — reproduces tuning and plots for linear/logistic models
 - `plot_mlp.py` — reproduces tuning and plots for the MLP, including loss/accuracy curves and decision regions
 
@@ -31,4 +31,5 @@ Utility modules:
 2) Install dependencies:
 ```bash
 pip install numpy matplotlib scikit-learn
+
 
