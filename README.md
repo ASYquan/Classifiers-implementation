@@ -1,6 +1,4 @@
-# IN3050/IN4050 Assignment 2 — Supervised Learning (Code-Only Repo)
-
-This repository contains a cleaned, runnable Python implementation extracted from the assignment notebook/PDF. It organizes code by topic and adds scripts to reproduce key plots and metrics.
+# Supervised Learning 
 
 ## Overview
 
@@ -33,3 +31,4 @@ Utility modules:
 2) Install dependencies:
 ```bash
 pip install numpy matplotlib scikit-learn
+
